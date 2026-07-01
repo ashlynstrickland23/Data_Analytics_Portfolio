@@ -4,7 +4,9 @@ Welcome to my data analytics portfolio.
 
 This portfolio highlights my work across Power BI, SQL, PostgreSQL, and business intelligence reporting. My projects focus on transforming raw data into clean reporting models, executive dashboards, and actionable insights that help businesses make smarter data driven decisions.
 
-I specialize in dashboard development, SQL reporting views, KPI validation, data storytelling, data visualization, and business intelligence solutions.
+## About Me
+
+I’m Ashlyn Strickland, a Data Scientist and Business Intelligence Developer focused on turning raw data into clear, useful reporting solutions. I specialize in Power BI dashboards, SQL reporting views, PostgreSQL data modeling, KPI validation, and executive analytics. My work combines technical data preparation with visual storytelling to help businesses make smarter data driven decisions.
 
 ---
 
@@ -53,13 +55,13 @@ This portfolio includes SQL and PostgreSQL projects focused on transforming raw 
 
 ## Sales Performance Dashboard
 
-This Power BI dashboard provides insights into quarterly sales performance across regions and products. It helps business users track total sales, units sold, sales by product, and regional performance trends.
+This Power BI dashboard provides executive visibility into sales and profit performance across countries, cities, categories, and sub categories. It highlights total sales of $27.84M, profit of $3.42M, and an overall profit ratio of 12%, while also showing sales trends over time and geographic performance.
 
-This project demonstrates dashboard design, data modeling, DAX, and visualization storytelling to deliver clear business insights for decision makers.
+This project demonstrates dashboard design, data modeling, DAX, and business storytelling by helping decision makers identify high performing locations, monitor category level profitability, and better understand where revenue and profit are being generated.
 
-<img src="https://raw.githubusercontent.com/ashlynstrickland23/PowerBI_Portfolio/main/Sales_Dashboard/images/SalesGif.gif" width="900">
+<img src="https://raw.githubusercontent.com/ashlynstrickland23/PowerBI_Portfolio/main/Sales_Performance_Dashboard/images/Untitled%20design%20%286%29.gif" width="900">
 
-[View Sales Dashboard Project](https://github.com/ashlynstrickland23/PowerBI_Portfolio/tree/main/Sales_Dashboard)
+[View Sales Performance Dashboard Project](https://github.com/ashlynstrickland23/PowerBI_Portfolio/tree/main/Sales_Performance_Dashboard)
 
 <br>
 
