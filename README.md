@@ -51,15 +51,15 @@ This portfolio includes SQL and PostgreSQL projects focused on transforming raw 
 
 # Featured Power BI Projects
 
-## Sales Dashboard
+## Sales Performance Dashboard
 
-This Power BI dashboard provides insights into sales performance across regions, products, and time periods. It tracks total sales, units sold, regional performance, product performance, and monthly sales trends.
+This Power BI dashboard provides insights into quarterly sales performance across regions and products. It helps business users track total sales, units sold, sales by product, and regional performance trends.
 
-This project helps business leaders quickly understand sales performance, identify top performing products, compare regional results, and monitor growth trends.
+This project demonstrates dashboard design, data modeling, DAX, and visualization storytelling to deliver clear business insights for decision makers.
 
 <img src="https://raw.githubusercontent.com/ashlynstrickland23/PowerBI_Portfolio/main/Sales_Dashboard/images/SalesGif.gif" width="900">
 
-[View Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio)
+[View Sales Dashboard Project](https://github.com/ashlynstrickland23/PowerBI_Portfolio/tree/main/Sales_Dashboard)
 
 <br>
 
@@ -71,7 +71,7 @@ This project helps marketing teams understand which channels are driving traffic
 
 <img src="https://raw.githubusercontent.com/ashlynstrickland23/PowerBI_Portfolio/main/Google_Analytics_Dashboard/images/Untitled%20design%20%281%29.gif" width="900">
 
-[View Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio)
+[View Google Analytics Dashboard Project](https://github.com/ashlynstrickland23/PowerBI_Portfolio/tree/main/Google_Analytics_Dashboard)
 
 <br>
 
@@ -83,7 +83,7 @@ This project helps leadership monitor financial health, compare performance over
 
 <img src="https://raw.githubusercontent.com/ashlynstrickland23/PowerBI_Portfolio/main/Profit_Loss_Dashboard/Profit_Loss_Dashboard/images/PNL%20gif.gif" width="900">
 
-[View Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio)
+[View Profit and Loss Dashboard Project](https://github.com/ashlynstrickland23/PowerBI_Portfolio/tree/main/Profit_Loss_Dashboard)
 
 ---
 
