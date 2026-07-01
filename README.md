@@ -6,7 +6,9 @@ This portfolio highlights my work across Power BI, SQL, PostgreSQL, and business
 
 ## About Me
 
-I’m Ashlyn Strickland, a Data Scientist and Business Intelligence Developer focused on turning raw data into clear, useful reporting solutions. I specialize in Power BI dashboards, SQL reporting views, PostgreSQL data modeling, KPI validation, and executive analytics. My work combines technical data preparation with visual storytelling to help businesses make smarter data driven decisions.
+I’m Ashlyn Strickland, a Data Scientist and Business Intelligence Developer with a Master’s degree in Data Science and a Certified Data Scientist background.
+
+I specialize in Power BI dashboard development, SQL reporting views, PostgreSQL data modeling, KPI validation, and executive analytics. My work focuses on transforming raw data into clean reporting models, dashboard ready datasets, and clear business insights that help organizations make smarter data driven decisions.
 
 ---
 
