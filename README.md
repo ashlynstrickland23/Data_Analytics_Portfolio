@@ -51,6 +51,18 @@ This portfolio includes SQL and PostgreSQL projects focused on transforming raw 
 
 # Featured Power BI Projects
 
+## Sales Dashboard
+
+This Power BI dashboard provides insights into sales performance across regions, products, and time periods. It tracks total sales, units sold, regional performance, product performance, and monthly sales trends.
+
+This project helps business leaders quickly understand sales performance, identify top performing products, compare regional results, and monitor growth trends.
+
+<img src="https://raw.githubusercontent.com/ashlynstrickland23/PowerBI_Portfolio/main/Sales_Dashboard/images/SalesGif.gif" width="900">
+
+[View Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio)
+
+<br>
+
 ## Google Analytics Dashboard
 
 This Power BI dashboard visualizes website and digital marketing performance. It tracks sessions, users, engagement, traffic sources, conversion activity, campaign performance, geography, and user behavior.
@@ -70,18 +82,6 @@ This Power BI dashboard focuses on financial performance, including revenue, exp
 This project helps leadership monitor financial health, compare performance over time, and understand the relationship between revenue, cost, and profit.
 
 <img src="https://raw.githubusercontent.com/ashlynstrickland23/PowerBI_Portfolio/main/Profit_Loss_Dashboard/Profit_Loss_Dashboard/images/PNL%20gif.gif" width="900">
-
-[View Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio)
-
-<br>
-
-## Healthcare Dashboard
-
-This Power BI dashboard focuses on healthcare related performance reporting and executive level insights.
-
-This project demonstrates how healthcare data can be organized into a clear dashboard experience that supports operational visibility, KPI monitoring, and leadership review.
-
-<img src="https://raw.githubusercontent.com/ashlynstrickland23/PowerBI_Portfolio/main/Healthcare_Dashboard/images/Healthcare%20gif.gif" width="900">
 
 [View Power BI Portfolio](https://github.com/ashlynstrickland23/PowerBI_Portfolio)
 
